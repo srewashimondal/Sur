@@ -1,0 +1,7 @@
+label,song_count,average_tempo,average_rmse,average_brightness
+adhunik,283,119.84,0.18,2004.76
+band,295,127.03,0.16,2585.1
+hiphop,295,112.96,0.21,2436.97
+nazrul,312,124.16,0.17,1363.6
+palligeeti,260,125.13,0.17,2233.45
+rabindra,297,129.57,0.14,1536.54
